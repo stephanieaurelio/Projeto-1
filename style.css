@@ -1,0 +1,47 @@
+body{
+    margin: 80px;
+    color: #565656;}
+h1{color: black;}
+h2{color: black;}
+h3{color: black;}
+
+p{
+    font-family: 'Roboto', sans-serif;
+   }
+
+.fim{text-align: right;}
+
+img {
+    object-fit: cover;}
+
+
+.meu-gatinho{   
+    background-color: rgba(230,230,250,255);
+    padding: 10px;}
+    
+span{
+    background-color: #efefef;} 
+
+.meu{
+    background-color: rgba(230,230,250,255);
+    border: 1px solid black;
+    padding: 10px;} 
+
+#codigo{
+    color: red;
+    background-color: white;} 
+
+#azul{
+    color: blue;
+    background-color: rgba(230,230,250,255);}
+
+#green{
+    color: green;
+    background-color: rgba(230,230,250,255);}
+
+#red{
+    color: red;
+    background-color: rgba(230,230,250,255);}
+
+table,tr,td,th{border-collapse: collapse;
+            border: 1px solid black;}
